@@ -1,0 +1,24 @@
+Background Sizes:
+xxhdpi: 960x1600
+xhdpi: 640x960
+hdpi: 480x800
+mdpi: 320x480
+ldpi: 240x320
+
+Home Icon Sizes:
+xxhdpi: 340x340
+xhdpi: 227x227
+hdpi: 170x170
+mdpi: 113x113
+ldpi: 85x85
+
+Media Button Sizes and App icon:
+xxhdpi: 144x144
+xhdpi: 96x96
+hdpi: 72x72
+mdpi: 48x48
+ldpi: 36x36
+
+App Icon Gradient Colors:
+693779
+005998
